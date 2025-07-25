@@ -1,9 +1,16 @@
 ## Hi there 👋
 
-Checkout my portfolio here:
+**Checkout my portfolio here:**
 https://lachlan-robinson.github.io/portfolio/
+
+**Or check it out on mobile:**
+
+![qr](https://github.com/user-attachments/assets/d0899040-85e0-4b7d-8617-80af9da73d8d)
+
 <!--
 **lachlan-robinson/lachlan-robinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
